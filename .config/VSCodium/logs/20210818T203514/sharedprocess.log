@@ -1,0 +1,26 @@
+[2021-08-18 20:35:33.533] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-08-18 20:35:37.528] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-08-18 20:35:57.544] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-08-18 20:35:57.547] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-08-18 20:36:07.527] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-08-18 20:36:52.127] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-08-18 20:36:55.028] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-08-18 20:37:09.634] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/yves/.config/VSCodium/CachedExtensionVSIXs/esbenp.prettier-vscode-8.1.0
+[2021-08-18 20:37:13.154] [sharedprocess] [info] Extracted extension to /home/yves/.vscode-oss/extensions/.e871ace6-e9c5-488f-831e-53a73e7d4ca1: esbenp.prettier-vscode
+[2021-08-18 20:37:13.219] [sharedprocess] [info] Renamed to /home/yves/.vscode-oss/extensions/esbenp.prettier-vscode-8.1.0
+[2021-08-18 20:37:13.257] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2021-08-18 20:37:13.291] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2021-08-18 20:37:31.056] [sharedprocess] [info] Installing extension: lintangwisesa.arduino
+[2021-08-18 20:37:37.667] [sharedprocess] [info] Downloaded extension: lintangwisesa.arduino /home/yves/.config/VSCodium/CachedExtensionVSIXs/lintangwisesa.arduino-0.3.3
+[2021-08-18 20:37:38.052] [sharedprocess] [info] Extracted extension to /home/yves/.vscode-oss/extensions/.86ae127e-604d-4767-bf27-842292f545fa: lintangwisesa.arduino
+[2021-08-18 20:37:38.607] [sharedprocess] [info] Renamed to /home/yves/.vscode-oss/extensions/lintangwisesa.arduino-0.3.3
+[2021-08-18 20:37:38.619] [sharedprocess] [info] Extracting completed. lintangwisesa.arduino
+[2021-08-18 20:37:39.328] [sharedprocess] [info] Extension installed successfully: lintangwisesa.arduino
+[2021-08-18 20:37:53.203] [sharedprocess] [info] Uninstalling extension: lintangwisesa.arduino
+[2021-08-18 20:37:53.262] [sharedprocess] [info] Downloaded extension: ms-python.python /home/yves/.config/VSCodium/CachedExtensionVSIXs/ms-python.python-2020.10.332292344
+[2021-08-18 20:37:53.684] [sharedprocess] [info] Detected extension removed from another source lintangwisesa.arduino
+[2021-08-18 20:37:54.178] [sharedprocess] [info] Successfully uninstalled extension: lintangwisesa.arduino
+[2021-08-18 20:38:43.138] [sharedprocess] [info] Extracted extension to /home/yves/.vscode-oss/extensions/.31d3745c-9e76-4d87-83d9-76f3d0351655: ms-python.python
+[2021-08-18 20:38:43.835] [sharedprocess] [info] Renamed to /home/yves/.vscode-oss/extensions/ms-python.python-2020.10.332292344
+[2021-08-18 20:38:43.892] [sharedprocess] [info] Extracting completed. ms-python.python
+[2021-08-18 20:38:44.244] [sharedprocess] [info] Extension installed successfully: ms-python.python

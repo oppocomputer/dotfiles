@@ -1,0 +1,43 @@
+[2021-08-18 22:56:17.721] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/objective-c/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/objective-c/package.json'
+[2021-08-18 22:56:17.725] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/cpp/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/cpp/package.json'
+[2021-08-18 22:56:17.725] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/csharp/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/csharp/package.json'
+[2021-08-18 22:56:17.726] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/objective-c/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/objective-c/package.json'
+[2021-08-18 22:56:17.727] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/cpp/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/cpp/package.json'
+[2021-08-18 22:56:17.727] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/csharp/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/csharp/package.json'
+[2021-08-18 22:56:38.848] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/cpp/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/cpp/package.json'
+[2021-08-18 22:56:38.849] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/csharp/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/csharp/package.json'
+[2021-08-18 22:56:38.850] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/objective-c/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/objective-c/package.json'
+[2021-08-18 22:56:40.065] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/objective-c/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/objective-c/package.json'
+[2021-08-18 22:56:40.065] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/cpp/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/cpp/package.json'
+[2021-08-18 22:56:41.273] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/csharp/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/csharp/package.json'
+[2021-08-18 22:56:42.950] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/objective-c/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/objective-c/package.json'
+[2021-08-18 22:56:42.951] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/cpp/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/cpp/package.json'
+[2021-08-18 22:56:42.952] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/csharp/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/csharp/package.json'
+[2021-08-18 22:56:55.308] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/debug-auto-launch/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/debug-auto-launch/package.json'
+[2021-08-18 22:56:58.868] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/debug-auto-launch/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/debug-auto-launch/package.json'
+[2021-08-18 22:57:09.485] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/debug-auto-launch/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/debug-auto-launch/package.json'
+[2021-08-18 23:27:12.101] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/java/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/java/package.json'
+[2021-08-18 23:27:12.102] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/javascript/package.json'
+[2021-08-18 23:27:12.102] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/typescript-language-features/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/typescript-language-features/package.json'
+[2021-08-18 23:27:15.586] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/javascript/package.json'
+[2021-08-18 23:27:15.636] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/typescript-language-features/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium-bin/resources/app/extensions/typescript-language-features/package.json'
+[2021-08-18 23:30:30.714] [renderer1] [error] Assertion Failed: argument is undefined or null: Error: Assertion Failed: argument is undefined or null
+    at f (file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:61:69746)
+    at Wo.selectStep (file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1864:58188)
+    at Wo.buildCategorySlide (file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1962:14868)
+    at Wo.buildCategoriesSlide (file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1962:3210)
+    at file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1864:46248
+    at f.queue (file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:68:13142)
+    at xe (file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1864:46233)
+    at l.fire (file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1712)
+    at file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1714:41475
+    at h.fire (file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1712)
+    at h.fire (file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:60:3183)
+    at setContext (file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:637:123116)
+    at o.set (file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:637:121405)
+    at Y (file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2899:26152)
+    at file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2899:26212
+    at l.fire (file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1712)
+    at l.fire (file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1732)
+    at b.createGroup (file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1564:31545)
+    at $.createTerminal (file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2899:41804)
